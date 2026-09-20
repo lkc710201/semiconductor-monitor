@@ -126,5 +126,21 @@
     "gpu_rent": 5.2,
     "gpu_status": "GREEN",
     "gpu_desc": "租金 $5.2/hr，月增率 -2.1%，晶片商具強烈定價溢價。"
+  },
+  {
+    "date": "2026-09-20",
+    "overall": "YELLOW",
+    "action": "黃燈警戒：凍結部位加碼，維持 70%~80% 持股，增配高 TCO 優勢之 ASIC 族群。",
+    "pe_tsmc": "20x ~ 24x",
+    "pe_nvda": "25x ~ 30x",
+    "cowos_weeks": 38.0,
+    "cowos_status": "GREEN",
+    "cowos_desc": "交期 38.0 週（>=36週），先進封裝產能維持超額預定。",
+    "scissor_pct": 11.8,
+    "scissor_status": "YELLOW",
+    "scissor_desc": "剪刀差 +11.8%（10%~20%），北美電網併網遞延，機房待機堆積。",
+    "gpu_rent": 5.2,
+    "gpu_status": "GREEN",
+    "gpu_desc": "租金 $5.2/hr，月增率 -2.1%，晶片商具強烈定價溢價。"
   }
 ]
